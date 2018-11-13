@@ -1,5 +1,5 @@
 # brain-mapping
-code for "mapping histological slice sequences to the Allen Mouse Brain Atlas without 3d reconstruction
+code for "mapping histological slice sequences to the Allen Mouse Brain Atlas without 3d reconstruction"
 
 
 dataset for full brain exceeds github file size limit
